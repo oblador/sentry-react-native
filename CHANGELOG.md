@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump JavaScript SDK from v7.119.0 to v8.26.0 ([#3895](https://github.com/getsentry/sentry-react-native/pull/3895))
+  - [changelog](https://github.com/getsentry/sentry-javascript/blob/develop nh/instrument-nest-caching-from-module/CHANGELOG.md#8260)
+  - [diff](https://github.com/getsentry/sentry-javascript/compare/7.119.0...8.26.0)
+
 ## 5.30.0
 
 ### Features
